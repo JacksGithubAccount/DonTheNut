@@ -338,6 +338,13 @@ namespace DonTheNut
          * -added method that sets movespeed to the correct movespeed based on behavior checks
          * 2/20/2021
          * -
+         * 3/5/2023
+         * -finally getting back into stride
+         * 3/6/2023
+         * -attack animation was fucked showng the entire spritesheet
+         * -Fixed by swapping the numbers for rows and columns when setting attack animation
+         * -now guy's sprite is at a different spot when attacking, need to set an anchor point
+         * 3/11/2023
          */
     }
 }

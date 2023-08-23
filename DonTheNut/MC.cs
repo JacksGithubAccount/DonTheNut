@@ -402,7 +402,7 @@ namespace DonTheNut
                         if (hasStamina())
                         {
                             attackCheck = true;
-                            animatedSprite.setNewAnimation(spriteMCattack1, 1, 6);
+                            animatedSprite.setNewAnimation(spriteMCattack1, 6, 1);
                             animatedSprite.waitToFinish = true;
                             consumeStamina(40);
                         }
