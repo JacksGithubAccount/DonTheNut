@@ -347,6 +347,9 @@ namespace DonTheNut
          * 3/11/2023
          * 8/22/2023
          * -github attempt
+         * 8/23/2023
+         * -attack1.png was referencing a spritesheet location on a local computer, fixed so it points to actual location in project
+         * 
          */
     }
 }
