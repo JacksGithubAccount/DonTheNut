@@ -345,6 +345,8 @@ namespace DonTheNut
          * -Fixed by swapping the numbers for rows and columns when setting attack animation
          * -now guy's sprite is at a different spot when attacking, need to set an anchor point
          * 3/11/2023
+         * 8/22/2023
+         * -github attempt
          */
     }
 }
